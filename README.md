@@ -55,4 +55,5 @@ Usage
 Compatibility
 -------------
 Phonegap > 3.0.0
+
 IOS & Android
