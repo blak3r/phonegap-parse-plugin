@@ -19,7 +19,7 @@ phonegap local plugin add https://github.com/benjie/phonegap-parse-plugin
 Usage
 -----
 ```
-<script type="text/javascript>
+<script type="text/javascript">
 	parsePlugin.initialize(appId, clientKey, function() {
 		alert('success');
 	}, function(e) {
@@ -55,3 +55,4 @@ Usage
 Compatibility
 -------------
 Phonegap > 3.0.0
+IOS & Android
